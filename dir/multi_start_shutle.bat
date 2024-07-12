@@ -16,3 +16,4 @@ for /f "tokens=1 delims=-" %%a in (api\api_key_shutle.txt) do (
 :endloop
 endlocal
 endlocal
+exit
